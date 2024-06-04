@@ -12,7 +12,7 @@ java 是==强类型机制==  ==跨平台机制== ==垃圾自动回收== ==解释
 
 ####  JDK、JRE和JVM
 
-- <u>.java 文件</u> --- >编译成  <u>.class 文件</u>(字节码文件)
+- <u>java 文件</u> --- >编译成  <u>.class 文件</u>(字节码文件)
 - JVM  包含在JDK 中 ， 虚拟机机制实现了 ==一次编译到处运行==
 - ==JDK==(Java Development Kit) Java开发工具包  **JDK = JRE +Java 开发工具**
 - ==JRE== (Java Runtime Envrioment)Java 运行环境  **JRE = JVM + Java的核心类库**
